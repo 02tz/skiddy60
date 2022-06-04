@@ -54,4 +54,4 @@ var myConsoleLog = function() {
     return parent.myConsoleLog();
 }
 
-var isShowAdScreen = false;
+var isShowAdScreen = true;
